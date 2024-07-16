@@ -5,6 +5,9 @@ export default {
     data() {
         return {
 
+            test: null
+
+
         }
     },
     components: {
